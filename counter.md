@@ -1,7 +1,9 @@
 # learnmore
 Share your expirence
-echo "# learnmore" >> README.md
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+echo "# learnmore" >> counter.md
+
+
+/*<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="wrap_content"
     android:layout_height="match_parent"
@@ -152,4 +154,4 @@ echo "# learnmore" >> README.md
         android:layout_marginBottom="45dp"
         android:text="RESET" />
 
-</RelativeLayout>
+</RelativeLayout>*/
