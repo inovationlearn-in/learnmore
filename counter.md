@@ -7,6 +7,7 @@
     android:layout_width="wrap_content"
     android:layout_height="match_parent"
     tools:context="MainActivity">
+    
     <View
         android:layout_width="1dp"
         android:layout_height="match_parent"
